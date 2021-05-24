@@ -1,4 +1,5 @@
 ./ipynb_checkpoints
-*/.ipynb_checkpoints/*
+*/./.ipynb_checkpoints/*
 ./Trash-0
 */.Trash-0/*
+*/./.Trash-0/*
